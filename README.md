@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 sobre mim:
 stou procurando colaborar em projetos open source, aplicações web e ferramentas de IA<br>🤝 Estou procurando ajuda para ganhar experiência na área de tecnologia e encontrar oportunidades de trabalho<br>🌱 Atualmente estou cursando Informática para Internet na ETECVAV e aprendendo desenvolvimento web, TypeScript e machine learning<br>💬 Pergunte-me sobre Python, React, APIs, automação e tecnologia<br>⚡ Curiosidade: posso passar horas procurando um ponto e vírgula faltando 😄<br>🚀 Atualmente estou em busca de uma oportunidade de trabalho na área de tecnologia
 
 
